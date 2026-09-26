@@ -7,6 +7,7 @@
 I build digital products, interfaces, and experimental systems with a focus on frontend craft, product thinking, and AI-enabled experiences.
 
 > “I am always doing what I cannot do yet, in order to learn how to do it.” — Vincent van Gogh
+
 I keep this as a daily reminder and a personal principle. To me, it means that if I want to learn something new, I just have to dive in and do it. Even if I don’t fully understand it yet. Even if it’s difficult. Even if I have no idea what I’m doing at first.
 In fact, by coincidence, that’s pretty much how it all started for me. During our capstone project in my fourth year, I was basically forced to do some techy stuff like environment setups, localhost, and a bunch of things I barely understood at the time. Most of it came from following tutorials, getting advice from a classmate, and some guidance from my professor. Along the way, I somehow started enjoying it without even noticing😆.
 
