@@ -1,67 +1,41 @@
-## Hi, I'm John Robert Gaufo 👋
+# Hi, I'm John roBert 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-jbline--dev-181717?style=flat-square&logo=github)](https://github.com/jbline-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Robert%20Gaufo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/john-robert-gaufo-3687ba333)
-[![Email](https://img.shields.io/badge/Email-johnrobertgaufo1%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:johnrobertgaufo1@gmail.com)
+Software engineer building modern web experiences with a focus on clean UX, thoughtful architecture, and performance-first products.
 
-I build digital products, interfaces, and experimental systems with a focus on frontend craft, product thinking, and AI-enabled experiences.
+- 🔭 Currently building: polished frontend apps and developer tools
+- 🌱 Learning: advanced React patterns, Next.js, and product engineering
+- 💡 Interested in: UI/UX, design systems, web performance, and scalable interfaces
+- 🤝 Open to: collaborations, freelance work, and interesting product ideas
+- ⚡ Fun fact: I enjoy turning complex problems into simple, elegant solutions
 
-> “I am always doing what I cannot do yet, in order to learn how to do it.” — Vincent van Gogh
+## Tech Stack
 
-## About me
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Software engineer and designer with a curious, builder-first mindset
-- Interested in systems, interfaces, product engineering, and creative tooling
-- Currently exploring the intersection of UX, AI, and performant web experiences
-- Based in the Philippines
+## GitHub Stats
 
-## Tech stack
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbline-dev&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbline-dev&layout=compact&theme=tokyonight)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+## What I’m Working On
 
-## What I'm building
+- Building clean, user-focused interfaces
+- Improving developer experience and DX
+- Exploring modern frontend architecture
+- Shipping products that feel fast, polished, and intentional
 
-- Interactive portfolio experiences and creative product demos
-- AI-enhanced interfaces and exploratory user experiences
-- Full-stack tools for workflows, systems, and internal apps
-- Research-driven experiments around real-time rendering and UX patterns
-
-## Highlights
-
-- Built portfolio experiences using Next.js, React, and Tailwind
-- Worked on capstone and internship projects involving information systems and web-based tooling
-- Interested in collaborative tools, performance optimization, and clean UI architecture
-- Always shipping experiments, learning fast, and refining the craft
-
-## Current focus
-
-- Designing more polished, product-minded interfaces
-- Exploring AI-assisted workflows and modern frontend patterns
-- Building systems that feel useful, fast, and intentional
-- Learning deeper about rendering pipelines, UX, and product strategy
-
-## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbline-dev&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbline-dev&layout=compact&theme=github_dark&hide_border=true)
-
-## Let's connect
-
-If you’re building something interesting, collaborating on a product, or just want to talk about engineering, design, and AI, I’d love to connect.
+## Connect
 
 - GitHub: [@jbline-dev](https://github.com/jbline-dev)
-- LinkedIn: [John Robert Gaufo](https://www.linkedin.com/in/john-robert-gaufo-3687ba333)
-- Email: [johnrobertgaufo1@gmail.com](mailto:johnrobertgaufo1@gmail.com)
+- Portfolio: [your-portfolio-link](https://your-portfolio-link.com)
+- LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
+- Email: hello@yourdomain.com
 
----
-
-Built with curiosity, coffee, and a lot of iteration.
+> “Great products are built at the intersection of engineering, design, and empathy.”
