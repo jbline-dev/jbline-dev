@@ -1,5 +1,4 @@
-## Hi there 👋
-# Hi, I'm John Robert Gaufo 👋
+## Hi, I'm John Robert Gaufo 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-jbline--dev-181717?style=flat-square&logo=github)](https://github.com/jbline-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-John%20Robert%20Gaufo-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/john-robert-gaufo-3687ba333)
