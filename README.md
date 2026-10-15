@@ -9,7 +9,7 @@ Mostly TypeScript, increasingly Rust, always curious about how things render.
 
 <br/>
 
-**[portfolio](#)** &nbsp;·&nbsp; **[linkedin](https://www.linkedin.com/in/john-robert-gaufo-3687ba333)** &nbsp;·&nbsp; **[johnrobertgaufo1@gmail.com](mailto:johnrobertgaufo1@gmail.com)**
+**[portfolio](jbline.vercel.app)** &nbsp;·&nbsp; **[linkedin](https://www.linkedin.com/in/john-robert-gaufo-3687ba333)** &nbsp;·&nbsp; **[johnrobertgaufo1@gmail.com](mailto:johnrobertgaufo1@gmail.com)**
 
 <br/>
 
