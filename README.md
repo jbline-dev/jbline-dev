@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./hero.svg" alt="jb.line wings, opened as wide as my recent activity. John Robert Gaufo, developer and designer." width="900" />
+<img src="./hero.svg" alt="jb.line wings unfolding. John Robert Gaufo, developer and designer." width="900" />
 
 <br/><br/>
 
@@ -13,6 +13,6 @@ Mostly TypeScript, increasingly Rust, always curious about how things render.
 
 <br/>
 
-<sub>The wings above open as wide as my last two weeks of activity. Quiet fortnight, mostly closed. Shipping, fully open. A workflow redraws them daily.</sub>
+<sub>The wings always unfold into the real logo. How hard they snap open depends on my last two weeks of activity: quiet fortnight, a gentle settle; shipping, a hard snap with trails. A workflow redraws it daily.</sub>
 
 </div>
