@@ -1,4 +1,4 @@
-<img src="./hero.svg" alt="jb.line wings mark" width="160" />
+<img src="./hero.svg" alt="jb.line wings mark" width="300" />
 
 ### John Robert Gaufo
 
