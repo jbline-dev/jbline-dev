@@ -1,4 +1,4 @@
-<img src="./hero.svg" alt="jb.line wings mark. John Robert Gaufo, developer and designer." width="900" />
+<img src="./hero.svg?v=2" alt="jb.line wings mark. John Robert Gaufo, developer and designer." width="900" />
 
 Mostly TypeScript, increasingly Rust, always curious about how things render.
 
