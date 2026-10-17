@@ -2,4 +2,5 @@
 
 Mostly TypeScript, increasingly Rust, always curious about how things render.
 
-[portfolio](https://jbline.vercel.app) · [linkedin](https://www.linkedin.com/in/john-robert-gaufo-3687ba333) · [email](mailto:johnrobertgaufo1@gmail.com)
+<a href="https://jbline.vercel.app" target="_blank" rel="noopener noreferrer">portfolio</a> · <a href="https://www.linkedin.com/in/john-robert-gaufo-3687ba333" target="_blank" rel="noopener noreferrer">linkedin</a> · <a href="mailto:johnrobertgaufo1@gmail.com" target="_blank" rel="noopener noreferrer">email</a>
+
