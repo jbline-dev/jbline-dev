@@ -2,5 +2,4 @@
 
 Mostly TypeScript, increasingly Rust, always curious about how things render.
 
-<a href="https://jbline.vercel.app" target="_blank" rel="noopener noreferrer">portfolio</a> · <a href="https://www.linkedin.com/in/john-robert-gaufo-3687ba333" target="_blank" rel="noopener noreferrer">linkedin</a> · <a href="mailto:johnrobertgaufo1@gmail.com" target="_blank" rel="noopener noreferrer">email</a>
-
+<a href="https://jbline.vercel.app" target="_blank">portfolio</a> · <a href="https://www.linkedin.com/in/john-robert-gaufo-3687ba333" target="_blank">linkedin</a> · <a href="mailto:johnrobertgaufo1@gmail.com" target="_blank">email</a>
