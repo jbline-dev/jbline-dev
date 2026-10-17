@@ -1,9 +1,4 @@
-<img src="./hero.svg" alt="jb.line wings mark" width="300" />
-
-### John Robert Gaufo
-
-Developer and designer, Philippines.<br/>
-Interfaces, tools, and the odd experiment.
+<img src="./hero.svg" alt="jb.line wings mark. John Robert Gaufo, developer and designer." width="900" />
 
 Mostly TypeScript, increasingly Rust, always curious about how things render.
 
